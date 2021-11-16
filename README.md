@@ -11,3 +11,5 @@ pip install pandas
 
 Need API Key and secret. 
 
+The time it took to write it
+4 hours. 
